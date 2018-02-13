@@ -6,7 +6,7 @@ import numpy as np
 import json
 import os
 import argparse
-import cPickle as pickle
+import pickle
 
 from os import path
 from gensim.scripts.glove2word2vec import glove2word2vec
